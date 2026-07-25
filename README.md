@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 #### Espacios de trabajo ► EXCEL ● DOCUMENTOS ● POWERPOINT ● NOTION ● GOOGLE DRIVE ● GITGUB ● 
 
-#### IA ► GEMINI ● CHATGPT ● META ● 
+#### Inteligencia Artificial ► GEMINI ● CHATGPT ● META ● 
 
 #### Otras herramientas ► ANDROID STUDIO ● CYGWIN ● LINEA DE COMANDOS GIT BASH ● CMD ● NAVEGADORES CHROME Y FIREFOX
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -38,6 +38,10 @@ ________________________________________________________________________________
 ♦ +10 comandos en busqueda de base de datos ► CIWGIN ► CMD ► GIT BASH
 
 ♦ +200 consultas en IA ► CHATGPT ► GEMINI ► META
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## PROYECTOS
+
 
 
 
