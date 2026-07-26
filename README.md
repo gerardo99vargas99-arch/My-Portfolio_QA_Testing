@@ -65,7 +65,6 @@ ________________________________________________________________________________
 ⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de prioridad
 
 ### ¿Qué logré?
-
 ⊠ Alcancé un análisis del producto 35% más preciso, colaborando a la solución de posibles defectos futuros
 
 ⊠ Apliqué un seguimiento continuo para el ciclo de pruebas de manera autonoma, incrementando mi experiencia en un 15%
@@ -74,28 +73,41 @@ ________________________________________________________________________________
 
 ⊠ Experimente un seguimiento simulado con la IA para la elaboración del proyecto, optimizando asi el flujo de trabajo en un 30%
 
-## Testing Design para la pagina web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
+## Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
 
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
+
 ⊠ Examiné el sitio web en dos navegadores para las pruebas (google chrome y google firefox)
-⊠ Construí y ejecuté en EXCEL, una lista de comprobación para el estudio de la pagina web en ambos terrenos
+
+⊠ Construí y ejecuté en EXCEL, una lista de comprobación para el estudio de la página web en ambos terrenos
+
 ⊠ Desarrollé con IA una investigacion rápida sobre las principales estructuras del sitio para ambos terrenos
+
 ⊠ Elaboré y llevé a cabo 20 comprobaciones del diseño del sitio web para ambos terrenos (SO y dispositivo móvil)
+
 ⊠ Encontré y proyecté en JIRA 3 casos de prueba relacionados al diseño del sitio web en el dispositivo móvil
 
 ### ¿Como lo hice?
 ⊠ Con ayuda de la IA una proceso exacto de la perfecta supervisión del sitio y sus principales funciones
+
 ⊠ Utilicé ambos terrenos de forma real (SO y Dispositivo móvil) optimizando el proceso en un 25% más real y profesional
+
 ⊠ Analicé los principales problemas encontrados sobre el sitio web en el apartado de dudas
-⊠ Simulé una supervisíon como de un usuario real, agregando datos y logiando en la pagina
+
+⊠ Simulé una supervisíon como de un usuario real, agregando datos y logiando en la página
+
 ⊠ Con ayuda de la herramienta de supervisíon Devtools en chrome y Firefox, puliendo el proyecto en un 20% más eficaz
 
 ### ¿Qué logré?
-⊠ Pude conocer las principales dudas en el soporte técnico de del sitio web
+⊠ Pude conocer las principales dudas en el soporte técnico del sitio web
+
 ⊠ Alcancé una experiencia en pruebas de sitios web en ambos terrenos y mejorando el flujo en un 30% con herramientas técnicas
+
 ⊠ Obtube una mayor experiencia en desarrollo de pruebas de diseño, y superé mi flujo en un 10% más profesional
-⊠ Conocí la diferencia entre una paginas web de ambos campos de uso. Pero "No es una pagina hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea
+
+⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
+
 
 
 
