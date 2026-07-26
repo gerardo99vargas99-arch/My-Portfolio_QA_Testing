@@ -109,6 +109,20 @@ ________________________________________________________________________________
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## ESTUDIOS Y LICENCIATURAS
+
+#### LICENICIATURA EN ARQUITECTURA ■ Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
+
+#### CERTIFICACIÓN EN QA ENGINEER ■ TripleTen LaTaM Ene/Jul-2026 (Finalizado)
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## IDIOMAS
+#### ● Español Nivel: Nativo
+#### ● Inglés Nivel: A2 Básico
+
+
+
+
 
 
 
