@@ -45,7 +45,9 @@ ________________________________________________________________________________
 ## Testing para sitio web de Videojuegos "Guitar Flash" (Proyecto propio)
 ### ¿Qué hice?
 ⊠ Realicé una profunda investigación con pruebas de humo y exploratorias para el sitio web, alcanzando una definición de la estabilidad del videojuego
+
 ⊠ Con ayuda de la inteligencia artificial (ChatGTP) trabajamos juntos para hacer un análisis sobre el límite de exploración para las pruebas
+
 ⊠ Proyecté en EXCEL una ligera estructura y transcribí casos de prueba para el producto a realizar
 ### ¿Como lo hice?
 ⊠ Con ayuda de la IA, Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
