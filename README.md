@@ -107,6 +107,7 @@ ________________________________________________________________________________
 ⊠ Obtube una mayor experiencia en desarrollo de pruebas de diseño, y superé mi flujo en un 10% más profesional
 
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
