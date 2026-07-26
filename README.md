@@ -1,9 +1,9 @@
 # Gerardo Vargas ֍ QA Engineer 
 
-### A CERCA DE MI
+## A CERCA DE MI
 #### Soy un profesional apasionado en el desarrollo de la calidad del software. Experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento con mas de 150 casos de pruebas, 100 informe de errores y 70 pruebas en Api Testing.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-## HERRAMIENTAS DE TRABAJO
+### HERRAMIENTAS DE TRABAJO
 
 #### QA Manual ► JIRA ● POSTMAN ● FIGMA ● SQL ● CHROME DEVTOOLS ● FIREFOX DEVTOOLS ● GIT
 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 #### Otras herramientas ► ANDROID STUDIO ● CYGWIN ● LINEA DE COMANDOS GIT BASH ● CMD ● NAVEGADORES CHROME Y FIREFOX
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-## ♦ LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
+### ♦ LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
 
 ♦ +150 casos de prueba contruidos ► EXCEL
 
@@ -40,9 +40,9 @@ ________________________________________________________________________________
 ♦ +200 consultas en IA ► CHATGPT ► GEMINI ► META
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## EXPERIENCIAS PROFESIONALES
+### EXPERIENCIAS PROFESIONALES
 
-## Testing para sitio web de Videojuegos "Guitar Flash" (Proyecto propio)
+### Testing para sitio web de Videojuegos "Guitar Flash" (Proyecto propio)
 
 ### ¿Qué hice?
 ⊠ Hice una profunda investigación con pruebas de humo y exploratorias para el sitio web, logrando una definición de la estabilidad del videojuego
@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ⊠ Experimente un seguimiento simulado con la IA para la elaboración del proyecto, optimizando asi el flujo de trabajo en un 30%
 
-## Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
+### Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
 
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
