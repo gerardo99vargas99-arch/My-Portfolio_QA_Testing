@@ -1,7 +1,7 @@
 # Gerardo Vargas ֍ QA Engineer 
 
 ## A CERCA DE MI
-#### Soy un profesional apasionado en el desarrollo de la calidad del software. Experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento co más de 150 casos de pruebas, 100 informe de errores y 80 pruebas en Api Testing.
+#### ╔Soy un profesional apasionado en el desarrollo de la calidad del software. Experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento co más de 150 casos de pruebas, 100 informe de errores y 80 pruebas en Api Testing╝
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 ### ® HERRAMIENTAS DE TRABAJO
 
