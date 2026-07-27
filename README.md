@@ -1,24 +1,21 @@
 # Gerardo Vargas ֍ QA Engineer 
 
 # A CERCA DE MI
-#### Soy un profesional apasionado en el desarrollo de la calidad del software. Experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento co más de 150 casos de pruebas, 100 informe de errores y 80 pruebas en Api Testing.
+#### Soy un profesional apasionado en el desarrollo de la calidad del software. Con experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento con más de 150 casos de pruebas, 100 informe de errores y 80 pruebas en Api Testing.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 ## ® HERRAMIENTAS DE TRABAJO
-#### QA Manual ► JIRA ● POSTMAN ● FIGMA ● SQL ● CHROME DEVTOOLS ● FIREFOX DEVTOOLS ● GIT │
+#### QA Manual ► JIRA ● POSTMAN ● FIGMA ● CHROME DEVTOOLS ● FIREFOX DEVTOOLS ● SQL
 
-#### QA Automation ► PYTHON ● JAVA ● SELENIUM ● PYCHARM ● PYTEST │
+#### QA Automation ► PYTHON ● SELENIUM ● PYCHARM ● PYTEST
 
-#### Espacios de trabajo ► EXCEL ● DOCUMENTOS ● POWERPOINT ● NOTION ● GOOGLE DRIVE ● GITGUB │
+#### Espacios de trabajo ► EXCEL ● DOCUMENTOS ● POWERPOINT ● NOTION ● GOOGLE DRIVE ● GITHUB
 
-#### Inteligencia Artificial ► GEMINI ● CHATGPT ● META │
-
-#### Otras herramientas ► ANDROID STUDIO ● CYGWIN ● LINEA DE COMANDOS GIT BASH ● CMD ● NAVEGADORES CHROME Y FIREFOX │
+#### Otras herramientas ► ANDROID STUDIO ● LINEA DE COMANDOS ● CMD ● NAVEGADORES CHROME Y FIREFOX
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## ♦ LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
+♦ +150 casos de prueba contruídos ► EXCEL
 
-♦ +150 casos de prueba contruidos ► EXCEL
-
-♦ +100 Análisis de diseños UX/UI ► FIGMA
+♦ +100 Análisis de diseño UX/UI ► FIGMA
 
 ♦ +100 informe de errores ► JIRA
 
@@ -28,52 +25,44 @@ ________________________________________________________________________________
 
 ♦ +20 solicitudes en base de datos ► SQL
 
-♦ +3 mapas mentales ► DRAW.IO
+♦ +2 mapas mentales ► DRAW.IO
 
 ♦ +15 pruebas automatizadas ► SELENIUM WEBDRIVER ► PYCHARM
 
-♦ +25 localizadores buscados para pruebas automatizadas ► CHROME DEVTOOLS
-
-♦ +10 comandos en busqueda de base de datos ► CIWGIN ► CMD ► GIT BASH
-
-♦ +200 consultas en IA ► CHATGPT ► GEMINI ► META
+♦ +25 localizadores en pruebas automatizadas ► SELENIUM WEBDRIVER CHROME DEVTOOLS
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ♣ EXPERIENCIAS PROFESIONALES
-
 ## ♫ Testing para sitio web de Videojuegos "Guitar Flash" (Proyecto propio)
 
 ### ¿Qué hice?
 ⊠ Hice una profunda investigación con pruebas de humo y exploratorias para el sitio web, logrando una definición de la estabilidad del videojuego
 
-⊠ Con ayuda de la inteligencia artificial (ChatGTP) trabajamos juntos para hacer un análisis sobre el límite de exploración para las pruebas
+⊠ Con ayuda de la inteligencia artificial (ChatGPT) trabajamos juntos para hacer un análisis sobre el límite de exploración para las pruebas
 
 ⊠ Proyecté en EXCEL una ligera estructura y transcribí casos de prueba para el producto a realizar
 
 ### ¿Como lo hice?
-⊠ Con ayuda de la IA, Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
+⊠ Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
 
-⊠ A favor de mi experiencia en más de 10 años utilizando el sitio web, aumenté la supervisión en un 30% más rápido
+⊠ A favor de mi experiencia en más de 9 años utilizando el sitio web, aceleré la supervisión 30% más rápido, reduciendo el tiempo de trabajo
 
-⊠ Desarrolle un seguimiento en NOTION, enlistando el proceso de todos los pasos a seguir en el proyecto, desglozando a detalle el proyecto
+⊠ Desarrollé un seguimiento en NOTION, enlistando el proceso de todos los pasos a seguir en el proyecto
 
-⊠ Terminé generando +25 casos de prueba en la pantalla principal del sitio web, asi tambien para los campos agregar email, contraseña y busqueda de música
+⊠ Generé 20 casos de prueba en la pantalla principal del sitio web, así también, para los campos: agregar email, contraseña y busqueda de música
 
-⊠ Logré encontrar 5 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
-
-⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de prioridad
+⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de priorida
 
 ### ¿Qué logré?
+⊠ Logré encontrar 5 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
+
 ⊠ Alcancé un análisis del producto 35% más preciso, colaborando a la solución de posibles defectos futuros
 
 ⊠ Apliqué un seguimiento continuo para el ciclo de pruebas de manera autonoma, incrementando mi experiencia en un 15%
 
 ⊠ Me ha ayudado a entender mejor el sitio web, de igual forma, a mejorar en mi carrera profesional de QA
 
-⊠ Experimente un seguimiento simulado con la IA para la elaboración del proyecto, optimizando asi el flujo de trabajo en un 30%
-
 ## ☻ Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
-
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
 
