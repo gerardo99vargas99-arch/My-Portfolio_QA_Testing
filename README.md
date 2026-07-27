@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 ⊠ Me ha ayudado a entender mejor el sitio web, de igual forma, a mejorar en mi carrera profesional de QA
 
-### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
+#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
 
 ## ☻ Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
 
-### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● DISPOSITIVO MÓVIL ● SO WINDOWS
+#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● DISPOSITIVO MÓVIL ● SO WINDOWS
 
 ## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
 ### ¿Qué hice?
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 
 ⊠ Mejoré la calidad y la función principal de las apis, por medio de JIRA, logré obtener un seguimiento de prioridad para cada defecto encontrado en la app
 
-### Herramientas y entornos del proyecto: EXCEL ● JIRA ● POSTMAN ● API DOC ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
+#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● POSTMAN ● API DOC ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ESTUDIOS Y LICENCIATURAS
