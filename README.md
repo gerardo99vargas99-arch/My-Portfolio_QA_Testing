@@ -62,6 +62,8 @@ ________________________________________________________________________________
 
 ⊠ Me ha ayudado a entender mejor el sitio web, de igual forma, a mejorar en mi carrera profesional de QA
 
+### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
+
 ## ☻ Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
@@ -95,6 +97,34 @@ ________________________________________________________________________________
 ⊠ Obtuve una mayor experiencia en desarrollo de pruebas de diseño, y superando asi mi competencia profesional
 
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
+
+### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● DISPOSITIVO MÓVIL ● SO WINDOWS
+
+## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
+### ¿Qué hice?
+⊠ Realicé un análisis de requisitos para el desarrollo del proyecto
+
+⊠ Ejecuté 47 casos de prueba en EXCEL a través de POSTMAN para api testing
+
+⊠ Llevé a cabo la contrucción total de 17 informe de errores para los endpoints evaluados en las pruebas
+
+### ¿Como lo hice?
+⊠ Utilicé la fuente principal de información de las apis en Api Doc (Requisitos del back-end)
+
+⊠ A través de POSTMAN, realice consultas en metodos Post, Get y Pacth para las solicitudes del back-end
+
+⊠ Diseñé un proceso propio para las pruebas manuales por medio de la URL compartida para el producto
+
+### ¿Qué logre?
+⊠ Obtuve casos de errores en la respuesta de las apis en valores limite de los endpoint solicitados en metodos Post y Get
+
+⊠ Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN, la cual era muy dificil de usar al principio
+
+⊠ Logré expandír mis conocimientos en pruebas manuales, entendimiento del comportamiento de las apis y una estructura de desarrollo más confiable y segura
+
+⊠ Mejoré la calidad y la función principal de las apis, por medio de JIRA, logré obtener un seguimiento de prioridad para cada defecto encontrado en la app
+
+### Herramientas y entornos del proyecto: EXCEL ● JIRA ● POSTMAN ● API DOC ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ESTUDIOS Y LICENCIATURAS
