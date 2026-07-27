@@ -3,7 +3,7 @@
 # A CERCA DE MI
 #### Soy un profesional apasionado en el desarrollo de la calidad del software. Con experiencia en el uso de herramientas como JIRA, POSTMAN, FIGMA y SQL. Cuento con más de 150 casos de pruebas, 100 informe de errores y 80 pruebas en Api Testing.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-## ® HERRAMIENTAS DE TRABAJO
+## HERRAMIENTAS DE TRABAJO
 #### QA Manual ► JIRA ● POSTMAN ● FIGMA ● CHROME DEVTOOLS ● FIREFOX DEVTOOLS ● SQL
 
 #### QA Automation ► PYTHON ● SELENIUM ● PYCHARM ● PYTEST
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 #### Otras herramientas ► ANDROID STUDIO ● LINEA DE COMANDOS ● CMD ● NAVEGADORES CHROME Y FIREFOX
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-## ♦ LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
+## LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
 ♦ +150 casos de prueba contruídos ► EXCEL
 
 ♦ +100 Análisis de diseño UX/UI ► FIGMA
@@ -32,8 +32,8 @@ ________________________________________________________________________________
 ♦ +25 localizadores en pruebas automatizadas ► SELENIUM WEBDRIVER CHROME DEVTOOLS
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## ♣ EXPERIENCIAS PROFESIONALES
-## ♫ Testing para sitio web de Videojuegos "Guitar Flash" (Proyecto propio)
+## EXPERIENCIAS PROFESIONALES
+## ♫ Testing para sitio web de videojuegos "Guitar Flash" (proyecto propio)
 
 ### ¿Qué hice?
 ⊠ Hice una profunda investigación con pruebas de humo y exploratorias para el sitio web, logrando una definición de la estabilidad del videojuego
@@ -97,20 +97,20 @@ ________________________________________________________________________________
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## ♠ ESTUDIOS Y LICENCIATURAS
+## ESTUDIOS Y LICENCIATURAS
 
 #### LICENICIATURA EN ARQUITECTURA ■ Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
 
 #### CERTIFICACIÓN EN QA ENGINEER ■ TripleTen LaTaM Ene/Jul-2026 (Finalizado)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## ۞ IDIOMAS
+## IDIOMAS
 
 #### ● Español Nivel: Nativo
 #### ● Inglés Nivel: A2 Básico
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## © CONTACTOS
+## CONTACTOS
 
 #### LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
 #### EMAIL: jerryjym352@gmail.com
