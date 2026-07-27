@@ -40,20 +40,20 @@ ________________________________________________________________________________
 
 ⊠ Con ayuda de la inteligencia artificial (ChatGPT) trabajamos juntos para hacer un análisis sobre el límite de exploración para las pruebas
 
-⊠ Proyecté en EXCEL una ligera estructura y transcribí casos de prueba para el producto a realizar
+⊠ Proyecté en una robusta estructura y transcribí casos de prueba para el producto a realizar
 
 ### ¿Como lo hice?
 ⊠ Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
 
-⊠ A favor de mi experiencia en más de 9 años utilizando el sitio web, reduciendo el tiempo de trabajo
+⊠ Utilicé mi experiencia en más de 9 años conociendo el sitio del juego para hacer una supervisión más real y confiable
 
-⊠ Desarrollé un seguimiento en NOTION, enlistando el proceso de todos los pasos a seguir en el proyecto
+⊠ Desarrollé una simulación de pasos a seguir enlistando el proceso de todo el proyecto
 
+### ¿Qué logré?
 ⊠ Generé 20 casos de prueba en la pantalla principal del sitio web, así también, para los campos: agregar email, contraseña y busqueda de música
 
 ⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de priorida
 
-### ¿Qué logré?
 ⊠ Logré encontrar 5 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
 
 ⊠ Alcancé un análisis del producto más preciso, colaborando a la solución de posibles defectos futuros
