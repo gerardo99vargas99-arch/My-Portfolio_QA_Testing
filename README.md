@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ### ¿Como lo hice?
 ⊠ Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
 
-⊠ A favor de mi experiencia en más de 9 años utilizando el sitio web, aceleré la supervisión 30% más rápido, reduciendo el tiempo de trabajo
+⊠ A favor de mi experiencia en más de 9 años utilizando el sitio web, reduciendo el tiempo de trabajo
 
 ⊠ Desarrollé un seguimiento en NOTION, enlistando el proceso de todos los pasos a seguir en el proyecto
 
@@ -56,9 +56,9 @@ ________________________________________________________________________________
 ### ¿Qué logré?
 ⊠ Logré encontrar 5 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
 
-⊠ Alcancé un análisis del producto 35% más preciso, colaborando a la solución de posibles defectos futuros
+⊠ Alcancé un análisis del producto más preciso, colaborando a la solución de posibles defectos futuros
 
-⊠ Apliqué un seguimiento continuo para el ciclo de pruebas de manera autonoma, incrementando mi experiencia en un 15%
+⊠ Apliqué un seguimiento contínuo para el ciclo de pruebas de manera autónoma, incrementando mi experiencia
 
 ⊠ Me ha ayudado a entender mejor el sitio web, de igual forma, a mejorar en mi carrera profesional de QA
 
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 ### ¿Como lo hice?
 ⊠ Con ayuda de la IA una proceso exacto de la perfecta supervisión del sitio y sus principales funciones
 
-⊠ Utilicé ambos terrenos de forma real (SO y Dispositivo móvil) optimizando el proceso en un 25% más real y profesional
+⊠ Utilicé ambos terrenos de forma real (SO y Dispositivo móvil)
 
 ⊠ Analicé los principales problemas encontrados sobre el sitio web en el apartado de dudas
 
@@ -90,9 +90,9 @@ ________________________________________________________________________________
 ### ¿Qué logré?
 ⊠ Pude conocer las principales dudas en el soporte técnico del sitio web
 
-⊠ Alcancé una experiencia en pruebas de sitios web en ambos terrenos y mejorando el flujo en un 30% con herramientas técnicas
+⊠ Alcancé una mejor experiencia en pruebas de sitios web en ambos terrenos
 
-⊠ Obtube una mayor experiencia en desarrollo de pruebas de diseño, y superé mi flujo en un 10% más profesional
+⊠ Obtuve una mayor experiencia en desarrollo de pruebas de diseño, y superando asi mi competencia profesional
 
 ⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
