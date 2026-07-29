@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 ⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de priorida
 
-⊠ Logré encontrar 5 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
+⊠ Logré encontrar 3 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
 
 ⊠ Alcancé un análisis del producto más preciso, colaborando a la solución de posibles defectos futuros
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 #### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
 
-## ☻ Testing Design para la página web "Conducef" en SO y en dispositivo móvil (Proyecto propio)
+## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
 
@@ -74,9 +74,9 @@ ________________________________________________________________________________
 
 ⊠ Desarrollé con IA una investigacion rápida sobre las principales estructuras del sitio para ambos terrenos
 
-⊠ Elaboré y llevé a cabo 20 comprobaciones del diseño del sitio web para ambos terrenos (SO y dispositivo móvil)
+⊠ Elaboré y llevé a cabo 15 comprobaciones del diseño del sitio web para ambos terrenos (SO y dispositivo móvil)
 
-⊠ Encontré y proyecté en JIRA 3 casos de prueba relacionados al diseño del sitio web en el dispositivo móvil
+⊠ Encontré y proyecté en JIRA 1 caso de prueba relacionados al diseño del sitio web en el dispositivo móvil
 
 ### ¿Como lo hice?
 ⊠ Con ayuda de la IA una proceso exacto de la perfecta supervisión del sitio y sus principales funciones
