@@ -36,33 +36,34 @@ ________________________________________________________________________________
 ## ♫ Testing para sitio web de videojuegos "Guitar Flash" (proyecto propio)
 
 ### ¿Qué hice?
-⊠ Hice una profunda investigación con pruebas de humo y exploratorias para el sitio web, logrando una definición de la estabilidad del videojuego
+● Realicé una investigación funcional aplicando las pruebas de humo (Smoke testing) y pruebas exploratorias (Exploratory testing), con el objetivo de supervisar la estabilidad funcional y eficiencia del videojuego.
 
-⊠ Con ayuda de la inteligencia artificial (ChatGPT) trabajamos juntos para hacer un análisis sobre el límite de exploración para las pruebas
+● Comencé analizando el alcance y los límites para la ejecución de los distintos escenarios de pruebas, evaluando así la trayectoria a seguir.
 
-⊠ Proyecté en una robusta estructura y transcribí casos de prueba para el producto a realizar
+● Documente de forma ordenada una robusta estructura para ejecutar los casos de prueba, estableciendo escenarios, precondiciones, pasos a realizar, el estado actual de la prueba y una brecha de acceso para posibles defectos encontrados.
 
 ### ¿Como lo hice?
-⊠ Comencé un soporte técnico sobre la principal función del juego "Tocar las notas de una músicas a través del teclado, interpretando el ritmo de la guitarra"
+● Inicié desarrollando los diferentes tipos de escenarios de pruebas mediante las pruebas de humo, de esta forma, establecí los campos a evaluar de forma más precisa y ordenada.
 
-⊠ Utilicé mi experiencia en más de 9 años conociendo el sitio del juego para hacer una supervisión más real y confiable
+● Con ayuda de la inteligencia artificial (ChatGPT) fortalecí la planificación para seleccionar los diferentes escenarios encontrados en el sitio web 
 
-⊠ Desarrollé una simulación de pasos a seguir enlistando el proceso de todo el proyecto
+● Registré hallazgos para la trazabilidad mejorando la supervisión de la estruturación del proyecto para obtener resultados favorables para el videojuego
 
 ### ¿Qué logré?
-⊠ Generé 20 casos de prueba en la pantalla principal del sitio web, así también, para los campos: agregar email, contraseña y busqueda de música
+● Evalué la estabilidad y funciones del sitio web, proyectando los distintos escenarios de prueba para los campos "E-mail" y "Contraseña" siendo estos los principales obejtivos
 
-⊠ Simulé un sitio en JIRA para los informe de errores y sus respectivos niveles de priorida
+● Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocmientos en la evaluación de sitios web
 
-⊠ Logré encontrar 3 defectos que permanecen en el sitio web de forma activa, es decir, no es un defecto oculto, es visible
+● Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
+| Herramienta | Uso |
+|------------|-----|
+| Jira | Gestión de incidencias |
+| GitHub | Control de versiones y documentación |
+| Chrome DevTools | Inspección y depuración |
+| ChatGPT | Apoyo en análisis y documentación |
+| Excel | Diseño de casos de prueba |
 
-⊠ Alcancé un análisis del producto más preciso, colaborando a la solución de posibles defectos futuros
-
-⊠ Apliqué un seguimiento contínuo para el ciclo de pruebas de manera autónoma, incrementando mi experiencia
-
-⊠ Me ha ayudado a entender mejor el sitio web, de igual forma, a mejorar en mi carrera profesional de QA
-
-#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
+#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOW
 
 ## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
