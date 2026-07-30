@@ -113,8 +113,8 @@ ________________________________________________________________________________
 
 ## CONTACTOS
 
-#### TELÉFONO: 9931661021
-#### LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
+#### 📱TELÉFONO: 9931661021
+#### 👤LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
 
 
 
