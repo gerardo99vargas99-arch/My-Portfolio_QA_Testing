@@ -3,33 +3,16 @@
 # A CERCA DE MI
 ### Soy un profesional con experiencia en el pruebas manuales, diseños de casos de prueba, reporte de defectos y Api testing. Acutualmente me encuentro documetando proyectos propios y aprender más sobre el desarrollo de análisis y ejecución. Me interesa conectar con profesionales de calidad de software y continuar en el crecimiento como QA Engineer. 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-## HERRAMIENTAS DE TRABAJO
-#### QA Manual ► JIRA ● POSTMAN ● FIGMA ● CHROME DEVTOOLS ● FIREFOX DEVTOOLS ● SQL
-
-#### QA Automation ► PYTHON ● SELENIUM ● PYCHARM ● PYTEST
-
-#### Espacios de trabajo ► EXCEL ● DOCUMENTOS ● POWERPOINT ● NOTION ● GOOGLE DRIVE ● GITHUB
-
-#### Otras herramientas ► ANDROID STUDIO ● LINEA DE COMANDOS ● CMD ● NAVEGADORES CHROME Y FIREFOX
-____________________________________________________________________________________________________________________________________________________________________________________________________________________
-## LOGROS ► HERRAMIENTAS Y ESPACIOS DE DESARROLLO
-♦ +150 casos de prueba contruídos ► EXCEL
-
-♦ +100 Análisis de diseño UX/UI ► FIGMA
-
-♦ +100 informe de errores ► JIRA
-
-♦ +70 pruebas en Api Testing ► POSTMAN ► API DOC
-
-♦ +3 emulaciones de dispositivos móviles ► ANDROID STUDIO
-
-♦ +20 solicitudes en base de datos ► SQL
-
-♦ +2 mapas mentales ► DRAW.IO
-
-♦ +15 pruebas automatizadas ► SELENIUM WEBDRIVER ► PYCHARM
-
-♦ +25 localizadores en pruebas automatizadas ► SELENIUM WEBDRIVER CHROME DEVTOOLS
+| Herramientas | logros |
+|------------|-----|
+| Jira | +100 informe de errores registrados |
+| Postman | +70 pruebas en Api Testing |
+| Figma | Análisis de diseños en 4 proyectos |
+| Devtools | +7 proyectos en Design UI (Firefox y Chrome |
+| SQL | +50 consultas en base de datos |
+| Excel | +150 casos de prueba documentados |
+| Android Studio | 1 proyecto en pruebas de apps móviles |
+| Selenium | +25 Testing Automation en Pycharm/Pytest |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## EXPERIENCIAS PROFESIONALES
@@ -55,15 +38,13 @@ ________________________________________________________________________________
 ● Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocmientos en la evaluación de sitios web
 
 ● Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
+
 | Herramienta | Uso |
 |------------|-----|
 | Jira | Gestión de incidencias |
-| GitHub | Control de versiones y documentación |
 | Chrome DevTools | Inspección y depuración |
 | ChatGPT | Apoyo en análisis y documentación |
 | Excel | Diseño de casos de prueba |
-
-#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOW
 
 ## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
