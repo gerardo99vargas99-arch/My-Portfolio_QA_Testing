@@ -99,15 +99,15 @@ ________________________________________________________________________________
 
 ## ESTUDIOS Y LICENCIATURAS
 
-#### LICENICIATURA EN ARQUITECTURA ■ Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
+#### :book: LICENICIATURA EN ARQUITECTURA Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
 
-#### CERTIFICACIÓN EN QA ENGINEER ■ TripleTen LaTaM Ene/Jul-2026 (Finalizado)
+#### :book: CERTIFICACIÓN EN QA ENGINEER  TripleTen LaTaM Ene/Jul-2026 (Finalizado)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## IDIOMAS
 
-#### ● Español Nivel: Nativo
-#### ● Inglés Nivel: A2 Básico
+#### :earth: Español Nivel: Nativo
+#### :earth: Inglés Nivel: A2 Básico
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## CONTACTOS
