@@ -32,12 +32,11 @@ Registré hallazgos para la trazabilidad mejorando la supervisión de la estrutu
 Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocmientos en la evaluación de sitios web
 Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
 ### Herramientas 
-:bug: JIRA
+:bug: JIRA 
 
 :computer: EXCEL
 
 :gear: IA CHATGPT
-
 
 ## Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
@@ -68,27 +67,22 @@ Conseguí realizar un reporte de bug en jira, aplicando mis conocimientos en pru
 
 ## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
 ### ¿Qué hice?
-⊠ Realicé un análisis de requisitos para el desarrollo del proyecto
-
-⊠ Ejecuté 47 casos de prueba en EXCEL a través de POSTMAN para api testing
-
-⊠ Llevé a cabo la contrucción total de 17 informe de errores para los endpoints evaluados en las pruebas
+Comencé gestionando los requisitos del back-end en la documentación de la Api (ApiDoc). con la finalidad de consolidar la perfecta ejecución del proyecto en general.
+Hice una investigación completa para las pruebas, priorizando un proyecto más seguro y confiable.
+Con el objetivo de hacer un mejorar la calidad del producto en las Apis correspondientes.
 
 ### ¿Como lo hice?
-⊠ Utilicé la fuente principal de información de las apis en Api Doc (Requisitos del back-end)
-
-⊠ A través de POSTMAN, realice consultas en metodos Post, Get y Pacth para las solicitudes del back-end
-
-⊠ Diseñé un proceso propio para las pruebas manuales por medio de la URL compartida para el producto
+Utilicé la fuente principal de información de las apis en Api Doc (Requisitos del back-end).
+A través de POSTMAN, realicé consultas en metodos Post, Get y Pacth para las solicitudes del back-end y sus respectivos Endpoints.
+Diseñé un proceso propio para las pruebas manuales por medio de la URL compartida para el producto, con el objetivo de acelerar el rendimiento del trabajo.
+Con la ayuda de Excel, documente casos de prueba para los distintos escenarios de prueba en las apis a supervizar.
+En Jira comencé una rigurosa gestión de informe de errores bien estruturado y fácil de entender, asegurando la corrección de los defectos correspondientes.
 
 ### ¿Qué logre?
-⊠ Obtuve casos de errores en la respuesta de las apis en valores limite de los endpoint solicitados en metodos Post y Get
-
-⊠ Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN, la cual era muy dificil de usar al principio
-
-⊠ Logré expandír mis conocimientos en pruebas manuales, entendimiento del comportamiento de las apis y una estructura de desarrollo más confiable y segura
-
-⊠ Mejoré la calidad y la función principal de las apis, por medio de JIRA, logré obtener un seguimiento de prioridad para cada defecto encontrado en la app
+Obtuve casos de errores en la respuesta de las apis en valores limite de los endpoint solicitados en metodos Post y Get
+Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN, la cual era muy dificil de usar al principio
+Logré expandír mis conocimientos en pruebas manuales, entendimiento del comportamiento de las apis y una estructura de desarrollo más confiable y segura
+Mejoré la calidad y la función principal de las apis, por medio de JIRA, logré obtener un seguimiento de prioridad para cada defecto encontrado en la app
 
 #### Herramientas y entornos del proyecto: EXCEL ● JIRA ● POSTMAN ● API DOC ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
