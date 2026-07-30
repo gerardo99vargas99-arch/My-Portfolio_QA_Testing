@@ -38,7 +38,7 @@ Consolidé experiencia en la planificación, ejecución y documentación de prue
 
 :gear: IA CHATGPT
 
-### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
+#### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
@@ -65,7 +65,7 @@ Conseguí realizar un reporte de bug en jira, aplicando mis conocimientos en pru
 
 :gear: IA CHATGPT
 
-### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing
+#### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
 ### ¿Qué hice?
@@ -94,7 +94,7 @@ Mejoré la calidad y la función principal de las Apis, por medio de JIRA, logr�
 
 :books: Documentos ApiDoc
 
-### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1mJCqhGgZZPdncXkxhnwNrHLqEqh7DGcZ97q88LGUHYI/edit?usp=sharing
+#### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1mJCqhGgZZPdncXkxhnwNrHLqEqh7DGcZ97q88LGUHYI/edit?usp=sharing
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ESTUDIOS Y LICENCIATURAS
