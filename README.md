@@ -31,12 +31,15 @@ Registré hallazgos para la trazabilidad mejorando la supervisión de la estrutu
 ● Evalué la estabilidad y funciones del sitio web, proyectando los distintos escenarios de prueba para los campos "E-mail" y "Contraseña" siendo estos los principales obejtivos
 Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocmientos en la evaluación de sitios web
 Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
+### Herramientas 
+:rocket: POSTMAN
 
-### Herramientas Utilizadas
-:rocket: POSTMAN 
 :bug: JIRA
+
 :computer: EXCEL
+
 :gear: IA CHATGPT
+
 
 ## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
