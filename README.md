@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 #### :book: LICENICIATURA EN ARQUITECTURA Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
 
-#### :book: CERTIFICACIÓN EN QA ENGINEER  TripleTen LaTaM Ene/Jul-2026 (Finalizado)
+#### :book: CERTIFICACIÓN EN QA ENGINEER  TripleTen LATAM Ene/Jul-2026 (Finalizado)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## IDIOMAS
