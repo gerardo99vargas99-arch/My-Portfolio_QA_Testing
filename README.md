@@ -39,7 +39,7 @@ Consolidé experiencia en la planificación, ejecución y documentación de prue
 :gear: IA CHATGPT
 
 ### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
 ● Realicé pruebas exploratorias (Exploratory testing) como primer paso para análisis del sitio.
@@ -66,7 +66,7 @@ Conseguí realizar un reporte de bug en jira, aplicando mis conocimientos en pru
 :gear: IA CHATGPT
 
 ### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
 ### ¿Qué hice?
 Comencé gestionando los requisitos del back-end en la documentación de la Api (ApiDoc). con la finalidad de consolidar la perfecta ejecución del proyecto en general.
