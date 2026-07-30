@@ -39,19 +39,11 @@ ________________________________________________________________________________
 
 ● Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
 
-| Herramienta | Uso |
-|------------|-----|
-| :bug: Jira | Gestión de incidencias |
-| :rocket: Postman DevTools | Inspección y depuración |
-| :books: ChatGPT | Apoyo en análisis y documentación |
-| :computer: Excel | Diseño de casos de prueba |
-
-:rocket: 
-:computer:
-:bug:
-:gear:
-:books:
-:star:
+### Herramientas Utilizadas
+:rocket: POSTMAN 
+:bug: JIRA
+:computer: EXCEL
+:gear: IA CHATGPT
 
 ## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
