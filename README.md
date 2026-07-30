@@ -32,8 +32,6 @@ Registré hallazgos para la trazabilidad mejorando la supervisión de la estrutu
 Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocmientos en la evaluación de sitios web
 Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
 ### Herramientas 
-:rocket: POSTMAN
-
 :bug: JIRA
 
 :computer: EXCEL
@@ -41,39 +39,30 @@ Consolidé experiencia en la planificación, ejecución y documentación de prue
 :gear: IA CHATGPT
 
 
-## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
+## Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
-⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
-
-⊠ Examiné el sitio web en dos navegadores para las pruebas (google chrome y google firefox)
-
-⊠ Construí y ejecuté en EXCEL, una lista de comprobación para el estudio de la página web en ambos terrenos
-
-⊠ Desarrollé con IA una investigacion rápida sobre las principales estructuras del sitio para ambos terrenos
-
-⊠ Elaboré y llevé a cabo 15 comprobaciones del diseño del sitio web para ambos terrenos (SO y dispositivo móvil)
-
-⊠ Encontré y proyecté en JIRA 1 caso de prueba relacionados al diseño del sitio web en el dispositivo móvil
+● Realicé pruebas exploratorias (Exploratory testing) como primer paso para análisis del sitio.
+Examiné el sitio web en dos navegadores para las pruebas (google chrome y google firefox).
+Construí y ejecuté una lista de comprobación para el estudio de la página web en ambos navegadores.
+Hice un análisis con ayuda de la inteligencia articial para depurar los principales escenarios a probar del sitio.
 
 ### ¿Como lo hice?
-⊠ Con ayuda de la IA una proceso exacto de la perfecta supervisión del sitio y sus principales funciones
-
-⊠ Utilicé ambos terrenos de forma real (SO y Dispositivo móvil)
-
-⊠ Analicé los principales problemas encontrados sobre el sitio web en el apartado de dudas
-
-⊠ Simulé una supervisíon como de un usuario real, agregando datos y logiando en la página
-
-⊠ Con ayuda de la herramienta de supervisíon Devtools en chrome y Firefox, puliendo el proyecto en un 20% más eficaz
+● Inicié una meticulosa busqueda de los diseños (Design UI) con ayuda de la IA para mejorar el fluje de trabajo y acelerar el análisis.
+Documenté la lista de comprobación con una textura fresca y de fácil comunicación, así como una estructuración sólida que fomenta su evaluación en cada navegador-
+Refresqué las páginas web en ambos escenarios y supervisé cuidadosamente los navegadores a probar, asegurando la calidad de los diseños entre ellos.
 
 ### ¿Qué logré?
-⊠ Pude conocer las principales dudas en el soporte técnico del sitio web
+● Fortalecí mis conocimientos en QA para análisis de diseño, alcanzando un nuevo hito en mi profesión de forma autónoma.
+Gestioné rigurosamente los diseños y aseguré la calidad de la interfaz para ambos navegadores, reforzando así la versatilidad del sitio web.
+Conseguí realizar un reporte de bug en jira, aplicando mis conocimientos en pruebas de diseño UI para este proyecto, rebusteciendo mis conocimiento en listas de comprobació en los diseños de la página.
+### Herramientas
+:rocket: POSTMAN
 
-⊠ Alcancé una mejor experiencia en pruebas de sitios web en ambos terrenos
+:bug: JIRA
 
-⊠ Obtuve una mayor experiencia en desarrollo de pruebas de diseño, y superando asi mi competencia profesional
+:computer: EXCEL
 
-⊠ Conocí la diferencia entre una páginas web de ambos campos de uso. Pero "No es una página hibrida, es un sitio web del gobierno mexicano para la realización de tramites en linea, ofreciendo su funcionamiento para sistemas operativos y dispositivos móviles
+:gear: IA CHATGPT
 
 #### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● DISPOSITIVO MÓVIL ● SO WINDOWS
 
