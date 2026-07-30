@@ -81,8 +81,7 @@ Encontré 17 errores en los endpoints a través de los límites solicitados en l
 Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN. perfeccioné mis habilidades en el uso de los metodos.
 Logré expandír mis conocimientos en pruebas manuales, entendimiento el comportamiento de las Apis y realicé una estructura de desarrollo más confiable y segura.
 Mejoré la calidad y la función principal de las Apis, por medio de JIRA, logré obtener un seguimiento de defectos adecuado y prioricé la clasificación de cada error encontrado.
-
-#### Herramientas
+### Herramientas
 :rocket: POSTMAN
 
 :bug: JIRA
