@@ -46,6 +46,13 @@ ________________________________________________________________________________
 | ChatGPT | Apoyo en análisis y documentación |
 | Excel | Diseño de casos de prueba |
 
+:rocket:
+:computer:
+:bug:
+:gear:
+:books:
+:star:
+
 ## ☻ Testing Design para la página web "Condusef" en SO y en dispositivo móvil (Proyecto propio)
 ### ¿Qué hice?
 ⊠ Estudié la pagina web en ambos navegadores de forma aleatoria (exploración) como primer paso para análisis del sitio
