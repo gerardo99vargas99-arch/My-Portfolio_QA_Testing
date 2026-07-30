@@ -63,8 +63,6 @@ Conseguí realizar un reporte de bug en jira, aplicando mis conocimientos en pru
 
 :gear: IA CHATGPT
 
-#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● NAVEGADOR CHROME Y FIREFOX ● DISPOSITIVO MÓVIL ● SO WINDOWS
-
 ## Api testing para la aplicación "Urban Grocers" (Proyecto del curso)
 ### ¿Qué hice?
 Comencé gestionando los requisitos del back-end en la documentación de la Api (ApiDoc). con la finalidad de consolidar la perfecta ejecución del proyecto en general.
@@ -79,12 +77,18 @@ Con la ayuda de Excel, documente casos de prueba para los distintos escenarios d
 En Jira comencé una rigurosa gestión de informe de errores bien estruturado y fácil de entender, asegurando la corrección de los defectos correspondientes.
 
 ### ¿Qué logre?
-Obtuve casos de errores en la respuesta de las apis en valores limite de los endpoint solicitados en metodos Post y Get
-Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN, la cual era muy dificil de usar al principio
-Logré expandír mis conocimientos en pruebas manuales, entendimiento del comportamiento de las apis y una estructura de desarrollo más confiable y segura
-Mejoré la calidad y la función principal de las apis, por medio de JIRA, logré obtener un seguimiento de prioridad para cada defecto encontrado en la app
+Encontré 17 errores en los endpoints a través de los límites solicitados en la documentación de las Apis.
+Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herramienta POSTMAN. perfeccioné mis habilidades en el uso de los metodos.
+Logré expandír mis conocimientos en pruebas manuales, entendimiento el comportamiento de las Apis y realicé una estructura de desarrollo más confiable y segura.
+Mejoré la calidad y la función principal de las Apis, por medio de JIRA, logré obtener un seguimiento de defectos adecuado y prioricé la clasificación de cada error encontrado.
+#### Herramientas
+:rocket: POSTMAN
 
-#### Herramientas y entornos del proyecto: EXCEL ● JIRA ● POSTMAN ● API DOC ● NAVEGADOR CHROME Y FIREFOX ● SO WINDOWS
+:bug: JIRA
+
+:computer: EXCEL
+
+:books: Documentos ApiDoc
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ESTUDIOS Y LICENCIATURAS
@@ -100,8 +104,9 @@ ________________________________________________________________________________
 #### ● Inglés Nivel: A2 Básico
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## CONTACTO
+## CONTACTOS
 
+#### TELÉFONO: 9931661021
 #### LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
 
 
