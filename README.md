@@ -41,12 +41,12 @@ ________________________________________________________________________________
 
 | Herramienta | Uso |
 |------------|-----|
-| Jira | Gestión de incidencias |
-| Chrome DevTools | Inspección y depuración |
-| ChatGPT | Apoyo en análisis y documentación |
-| Excel | Diseño de casos de prueba |
+| :bug: Jira | Gestión de incidencias |
+| :rocket: Postman DevTools | Inspección y depuración |
+| :books: ChatGPT | Apoyo en análisis y documentación |
+| :computer: Excel | Diseño de casos de prueba |
 
-:rocket:
+:rocket: 
 :computer:
 :bug:
 :gear:
