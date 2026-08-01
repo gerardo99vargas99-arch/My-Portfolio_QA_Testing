@@ -120,7 +120,7 @@ ________________________________________________________________________________
 #### 👤LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
 #### 💼MI CV: https://docs.google.com/document/d/1rs67FOnQMgbaalxX0pwpU8pGn02bhh8Y/edit?usp=sharing&ouid=116880271726901642696&rtpof=true&sd=true
 
-
+![POSTMAN](assets/images/imagen POSTMAN.png)
 
 
 
