@@ -110,6 +110,13 @@ Prueba de Apis:
 <p align="left">
   <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
 </p>
+<p align="left">
+  <img src="assets/images/postman2.png" alt="POSTMAN" width="250"/>
+</p>
+<p align="left">
+  <img src="assets/images/postman3.png" alt="POSTMAN" width="250"/>
+</p>
+
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
