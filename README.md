@@ -110,10 +110,10 @@ Prueba de Apis:
 <p align="left">
   <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="assets/images/postman2.png" alt="POSTMAN" width="250"/>
 </p>
-<p align="left">
+<p align="right">
   <img src="assets/images/postman3.png" alt="POSTMAN" width="250"/>
 </p>
 
