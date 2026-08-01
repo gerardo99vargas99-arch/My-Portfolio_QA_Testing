@@ -108,9 +108,9 @@ En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este
 
 Prueba de Apis:
 <p align="left">
-  <img src="assets/images/postman.png" width="70" height="100">
-  <img src="assets/images/postman2.png" width="70" height="100">
-  <img src="assets/images/postman3.png" width="70" height="100">
+  <img src="assets/images/postman.png" width="70" height="200">
+  <img src="assets/images/postman2.png" width="70" height="200">
+  <img src="assets/images/postman3.png" width="70" height="200">
 </p>
 
 
