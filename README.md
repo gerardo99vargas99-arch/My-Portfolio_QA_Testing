@@ -97,6 +97,7 @@ En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este
 :books: Documentos ApiDoc
 
 :file_folder: Metodos: POST - GET - PATCH
+Prueba de Apis:
 <p align="left">
   <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
 </p>
