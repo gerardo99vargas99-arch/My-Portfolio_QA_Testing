@@ -108,12 +108,9 @@ En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este
 
 Prueba de Apis:
 <p align="left">
-  <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
-</p><p align="center">
-  <img src="assets/images/postman2.png" alt="POSTMAN" width="250"/>
-</p><p align="right">
+  <img src="assets/images/postman.png" alt="POSTMAN" width="250"/> <p align="center">
+  <img src="assets/images/postman2.png" alt="POSTMAN" width="250"/> <p align="right">
   <img src="assets/images/postman3.png" alt="POSTMAN" width="250"/>
-</p>
 
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing
