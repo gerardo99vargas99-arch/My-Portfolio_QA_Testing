@@ -39,6 +39,13 @@ En conclusión: me gustan los videojuegos y llevar a cabo este reto profesional 
 
 :gear: IA CHATGPT
 
+Videojuego GuitarFlash Xgames:
+
+<p align="left">
+  <img src="assets/images/guitarflash.png" alt="POSTMAN" width="250"/>
+</p>
+
+
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Testing Design para la página web "Condusef" (Proyecto propio)
