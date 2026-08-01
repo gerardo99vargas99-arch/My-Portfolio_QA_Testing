@@ -88,7 +88,7 @@ Conseguí realizar una mejor agilidad en el flujo de trabajo utilizando la herra
 Mejoré la calidad y la función principal de las Apis, por medio de JIRA, logré obtener un seguimiento de defectos adecuado y prioricé la clasificación de cada error encontrado.
 En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este proyecto fue una invitación directa a relacionarme a él. Con gran satisfacción puedo avalar mi aprendizaje en pruebas manuales. Después de comprenderlo, ayude a otros compañeros a conocerlas mejor; entonces también fortalecí mi liderazgo como compañero QA, ofreciendo empatía y confiabilidad.
 ### Herramientas
-:rocket: POSTMAN
+:rocket: POSTMAN                                                                                      
 
 :bug: JIRA
 
@@ -97,6 +97,9 @@ En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este
 :books: Documentos ApiDoc
 
 :file_folder: Metodos: POST - GET - PATCH
+<p align="center">
+  <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
+</p>
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -119,15 +122,6 @@ ________________________________________________________________________________
 
 #### 👤LINKEDIN: www.linkedin.com/in/gerardo-vargas-ventura1999
 #### 💼MI CV: https://docs.google.com/document/d/1rs67FOnQMgbaalxX0pwpU8pGn02bhh8Y/edit?usp=sharing&ouid=116880271726901642696&rtpof=true&sd=true
-
-![POSTMAN](assets/images/postman.png)
-<p align="center">
-  <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
-</p>
-
-
-
-
 
 
 
