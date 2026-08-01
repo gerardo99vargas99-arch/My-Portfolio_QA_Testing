@@ -75,6 +75,14 @@ En conclusión: La página presentaba múltiples defectos visuales hace unos añ
 
 :bookmark_tabs: DEVTOOLS (GOOGLE CHROME Y FIREFOX)
 
+Página Condusef Oficial:
+
+<p align="left">
+  <img src="assets/images/condusef1.png" width="70" height="200">
+  <img src="assets/images/condusef2.png" width="70" height="200">
+  <img src="assets/images/condusef3.png" width="70" height="200">
+</p>
+
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Api testing para la aplicación "Urban Grocers"
