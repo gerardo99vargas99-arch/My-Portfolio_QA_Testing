@@ -42,9 +42,10 @@ En conclusión: me gustan los videojuegos y llevar a cabo este reto profesional 
 Videojuego GuitarFlash Xgames:
 
 <p align="left">
-  <img src="assets/images/guitarflash.png" alt="POSTMAN" width="250"/>
+  <img src="assets/images/guitarflash.png" width="70" height="200">
+  <img src="assets/images/guitarflash2.png" width="70" height="200">
+  <img src="assets/images/guitarflash3.png" width="70" height="200">
 </p>
-
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
