@@ -121,6 +121,9 @@ ________________________________________________________________________________
 #### 💼MI CV: https://docs.google.com/document/d/1rs67FOnQMgbaalxX0pwpU8pGn02bhh8Y/edit?usp=sharing&ouid=116880271726901642696&rtpof=true&sd=true
 
 ![POSTMAN](assets/images/postman.png)
+<p align="center">
+  <img src="assets/images/postman.png" alt="POSTMAN" width="250"/>
+</p>
 
 
 
