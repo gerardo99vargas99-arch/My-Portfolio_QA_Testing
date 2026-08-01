@@ -98,7 +98,7 @@ En conclusión: Al principio las Apis eran otro mundo para mí, ahora hacer este
 
 :file_folder: Metodos: POST - GET - PATCH
 <p align="center">
-  <img src="assets/images/postman.png" alt="POSTMAN" width="120"/>
+  <img src="assets/images/postman.png" alt="POSTMAN" width="300"/>
 </p>
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing
