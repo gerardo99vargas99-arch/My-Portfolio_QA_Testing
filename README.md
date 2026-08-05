@@ -1,19 +1,16 @@
-## Testing para sitio web de videojuegos "Guitar Flash"
+### Testing para sitio web "Guitar Flash" (Proyecto propio)
 
-#### ¿Qué hice?
-Ejecuté pruebas funcionales de tipo **Smoke Testing y Exploratory Testing** para validar la estabilidad y rendimiento del sitio. 
-Definí el alcance, diseñé la estrategia de prueba y estructuré **20 casos de prueba en Excel**, documentando escenarios, precondiciones, pasos, resultados esperados vs actuales y reporte de defectos.
+#### 🎯 Objetivo
+Validar la estabilidad y flujo crítico de Login del sitio mediante Smoke y Exploratory Testing.
 
-#### ¿Cómo lo hice?
-- Diseñé escenarios de prueba críticos para el flujo de Login y gameplay.
-- Utilicé **Chrome DevTools** para análisis y trazabilidad de comportamientos.
-- Optimicé la planificación y cobertura de pruebas con apoyo de IA para no dejar escenarios sin cubrir.
-- Registré hallazgos y di seguimiento para asegurar la trazabilidad del proyecto.
+#### 🔧 Proceso de Pruebas
+- Diseño de 20+ casos de prueba con matriz de trazabilidad.
+- Análisis de comportamiento con Chrome DevTools.
+- Documentación de defectos con evidencia.
 
-#### ¿Qué logré?
-- Validé la estabilidad del sistema, enfocándome en los campos críticos **E-mail y Contraseña**.
-- Documenté **3 bugs funcionales** con evidencia.
-- Fortalecí mi experiencia en **planificación, ejecución y documentación de pruebas manuales** simulando un proyecto real en entorno productivo.
+#### 📈 Resultados
+- 3 bugs funcionales documentados en campos E-mail y Contraseña.
+- Cobertura completa del flujo crítico de autenticación.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 🛠️ Tech Stack
 
