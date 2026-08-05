@@ -1,7 +1,7 @@
 # 🎸 Testing para sitio web del Videojuego "Guitar Flash"
 
 ### 🎯 Objetivo
-Validar la estabilidad y flujo crítico de Login del sitio mediante Smoke y Exploratory Testing.
+Validar la estabilidad y flujo crítico de Login (Smoke & Exploratory Testing) en entorno productivo.
 
 ### 🔧 Proceso de Pruebas
 - Diseño de 20+ casos de prueba con matriz de trazabilidad.
