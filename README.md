@@ -1,14 +1,14 @@
-### Testing para sitio web "Guitar Flash"
+# Testing para sitio web "Guitar Flash"
 
-#### 🎯 Objetivo
+### 🎯 Objetivo
 Validar la estabilidad y flujo crítico de Login del sitio mediante Smoke y Exploratory Testing.
 
-#### 🔧 Proceso de Pruebas
+### 🔧 Proceso de Pruebas
 - Diseño de 20+ casos de prueba con matriz de trazabilidad.
 - Análisis de comportamiento con Chrome DevTools.
 - Documentación de defectos con evidencia.
 
-#### 📈 Resultados
+### 📈 Resultados
 - 3 bugs funcionales documentados en campos E-mail y Contraseña.
 - Cobertura completa del flujo crítico de autenticación.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
