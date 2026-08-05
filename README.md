@@ -1,4 +1,4 @@
-### Testing para sitio web "Guitar Flash" (Proyecto propio)
+### Testing para sitio web "Guitar Flash"
 
 #### 🎯 Objetivo
 Validar la estabilidad y flujo crítico de Login del sitio mediante Smoke y Exploratory Testing.
