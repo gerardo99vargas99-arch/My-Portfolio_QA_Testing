@@ -4,7 +4,7 @@
 Validar la estabilidad y flujo crítico de Login (Smoke & Exploratory Testing) en entorno productivo.
 
 ### 🔧 Proceso de Pruebas
-- Diseño de 20+ casos de prueba con matriz de trazabilidad.
+- Diseño de 20 casos de prueba con matriz de trazabilidad.
 - Análisis de comportamiento con Chrome DevTools.
 - Documentación de defectos con evidencia.
 
@@ -23,7 +23,15 @@ ________________________________________________________________________________
 **🎮 Videojuego:** [Guitar Flash - XGames](https://guitarflash.com/?lg=es)
 
 **📂 Evidencia:** [🔗 Ver Casos de Prueba y Bugs](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing)
+
+**💡Conclusiones:** Este proyecto en el sector de videojuegos representó un aprendizaje de alto valor al enfrentarme a un SUT dinámico y con múltiples interacciones en tiempo real. A diferencia de un portal web estático, aquí el enfoque fue crítico. Pude consolidar mi experiencia en dos tipos de prueba clave: el **Smoke Testing** para la validación rápida de la estabilidad del build y que las funciones críticas no estuvieran rotas, y el **Exploratory Testing** para descubrir defectos inesperados de gameplay, UI y lógica que no están en un caso de prueba predefinido.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
 
 ## Api testing para la aplicación "Urban Grocers"
 ### ¿Qué hice?
