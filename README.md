@@ -1,4 +1,4 @@
-## Testing para sitio web de videojuegos "Guitar Flash" (Proyecto propio)
+## Testing para sitio web de videojuegos "Guitar Flash"
 
 #### ¿Qué hice?
 Ejecuté pruebas funcionales de tipo **Smoke Testing y Exploratory Testing** para validar la estabilidad y rendimiento del sitio. 
