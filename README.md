@@ -1,23 +1,23 @@
-__________________________________________________________________________________________________________________________________________________________________________________________
-## Testing para sitio web de videojuegos "Guitar Flash" (proyecto propio)
-### ¿Qué hice?
-● Realicé una investigación funcional aplicando las pruebas de humo (Smoke testing) y pruebas exploratorias (Exploratory testing), con el objetivo de supervisar la estabilidad funcional y eficiencia del videojuego.
-Comencé analizando el alcance y los límites para la ejecución de los distintos escenarios de pruebas, evaluando así la trayectoria a seguir.
-Documenté de forma ordenada una robusta una estructura en Excel para ejecutar casos de prueba, estableciendo escenarios, precondiciones, pasos a realizar, el estado actual de la prueba y una brecha de acceso para posibles defectos encontrados.
+## Testing para sitio web de videojuegos "Guitar Flash" (Proyecto propio)
 
-### ¿Como lo hice?
-● Inicié desarrollando los diferentes tipos de escenarios de pruebas mediante las pruebas de humo, de esta forma, establecí los campos a evaluar de forma más precisa y ordenada.
-Con ayuda de la inteligencia artificial (ChatGPT) fortalecí la planificación para seleccionar los diferentes escenarios encontrados en el sitio web 
-Registré hallazgos para la trazabilidad mejorando la supervisión de la estruturación del proyecto para obtener resultados favorables para el videojuego
+#### ¿Qué hice?
+Ejecuté pruebas funcionales de tipo **Smoke Testing y Exploratory Testing** para validar la estabilidad y rendimiento del sitio. 
+Definí el alcance, diseñé la estrategia de prueba y estructuré **20+ casos de prueba en Excel**, documentando escenarios, precondiciones, pasos, resultados esperados vs. actuales y reporte de defectos.
 
-### ¿Qué logré?
-● Evalué la estabilidad y funciones del sitio web, proyectando los distintos escenarios de prueba para los campos "E-mail" y "Contraseña" siendo estos los principales obejtivos
-Apliqué una práctica de QA de forma autónoma, fortaleciendo mis conocimientos en la evaluación de sitios web
-Consolidé experiencia en la planificación, ejecución y documentación de pruebas manuales, simulando un impacto de QA asimilando un proyecto real.
-En conclusión: me gustan los videojuegos y llevar a cabo este reto profesional me ha ayudado a comprender mejor el comportamiento del software en uno de mis videojuegos favoritos.
+#### ¿Cómo lo hice?
+- Diseñé escenarios de prueba críticos para el flujo de Login y gameplay.
+- Utilicé **Chrome DevTools** para análisis y trazabilidad de comportamientos.
+- Optimicé la planificación y cobertura de pruebas con apoyo de IA para no dejar escenarios sin cubrir.
+- Registré hallazgos y di seguimiento para asegurar la trazabilidad del proyecto.
+
+#### ¿Qué logré?
+- Validé la estabilidad del sistema, enfocándome en los campos críticos **E-mail y Contraseña**.
+- Documenté **3 bugs funcionales** con evidencia.
+- Fortalecí mi experiencia en **planificación, ejecución y documentación de pruebas manuales** simulando un proyecto real en entorno productivo.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas 
-:bug: JIRA 
 
+:bug: JIRA 
 
 :computer: EXCEL
 
