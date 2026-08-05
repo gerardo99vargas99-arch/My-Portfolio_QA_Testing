@@ -1,21 +1,4 @@
-# Gerardo Vargas ֍ QA Engineer 
-
-# A CERCA DE MI
-### Soy un profesional con experiencia en el pruebas manuales, diseños de casos de prueba, reporte de defectos y Api testing. Actualmente me encuentro fundamentando proyectos prácticos y aprender más sobre el desarrollo de análisis y ejecución. Me interesa conectar con profesionales de calidad de software y continuar en mi crecimiento como QA Engineer. 
-______________________________________________________________________________________________________________________________________________________________________________________________________________
-| Herramientas | logros |
-|------------|-----|
-| Jira | +100 informe de errores documentados |
-| Postman | +70 pruebas en Api Testing |
-| Figma | Análisis de diseños en 3 proyectos |
-| Devtools | +7 proyectos en Design UI (Firefox y Chrome) |
-| SQL | +50 consultas en base de datos |
-| Excel | +150 casos de prueba documentados |
-| Android Studio | 1 proyecto en pruebas de apps móviles |
-| Selenium | +25 Testing Automation en Pycharm/Pytest |
-____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## EXPERIENCIAS PROFESIONALES
+__________________________________________________________________________________________________________________________________________________________________________________________
 ## Testing para sitio web de videojuegos "Guitar Flash" (proyecto propio)
 ### ¿Qué hice?
 ● Realicé una investigación funcional aplicando las pruebas de humo (Smoke testing) y pruebas exploratorias (Exploratory testing), con el objetivo de supervisar la estabilidad funcional y eficiencia del videojuego.
