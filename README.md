@@ -15,24 +15,6 @@ Definí el alcance, diseñé la estrategia de prueba y estructuré **20 casos de
 - Documenté **3 bugs funcionales** con evidencia.
 - Fortalecí mi experiencia en **planificación, ejecución y documentación de pruebas manuales** simulando un proyecto real en entorno productivo.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-### Herramientas 
-
-:bug: JIRA 
-
-:computer: EXCEL
-
-:gear: IA CHATGPT
-
-Videojuego GuitarFlash Xgames:
-
-<p align="left">
-  <img src="assets/images/guitarflash.png" width="70" height="200">
-  <img src="assets/images/guitarflash2.png" width="70" height="200">
-  <img src="assets/images/guitarflash3.png" width="70" height="200">
-</p>
-
-#### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing
-
 ### 🛠️ Tech Stack
 
 | Categoría | Herramientas |
@@ -41,7 +23,7 @@ Videojuego GuitarFlash Xgames:
 | **Testing** | `Chrome DevTools` `Smoke Testing` `Exploratory Testing` |
 | **Soporte** | `ChatGPT` para optimización de cobertura |
 
-**🎮 SUT:** [Guitar Flash - XGames](https://guitarflash3.com/)
+**🎮 Videojuego:** [Guitar Flash - XGames](https://guitarflash3.com/)
 
 **📂 Evidencia:** [🔗 Ver Casos de Prueba y Bugs](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszl9onff6ud4zusR0/edit?usp=sharing)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
