@@ -2,7 +2,7 @@
 
 #### ¿Qué hice?
 Ejecuté pruebas funcionales de tipo **Smoke Testing y Exploratory Testing** para validar la estabilidad y rendimiento del sitio. 
-Definí el alcance, diseñé la estrategia de prueba y estructuré **20+ casos de prueba en Excel**, documentando escenarios, precondiciones, pasos, resultados esperados vs. actuales y reporte de defectos.
+Definí el alcance, diseñé la estrategia de prueba y estructuré **20 casos de prueba en Excel**, documentando escenarios, precondiciones, pasos, resultados esperados vs actuales y reporte de defectos.
 
 #### ¿Cómo lo hice?
 - Diseñé escenarios de prueba críticos para el flujo de Login y gameplay.
