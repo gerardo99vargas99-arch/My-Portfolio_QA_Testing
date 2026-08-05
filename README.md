@@ -26,6 +26,8 @@ ________________________________________________________________________________
 
 **📂 Evidencia:** [🔗 Ver Casos de Prueba y Bugs](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing)
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 💡Conclusiones:
 
 Este proyecto en el sector de videojuegos representó un aprendizaje de alto valor al enfrentarme a un SUT dinámico y con múltiples interacciones en tiempo real. 
