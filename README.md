@@ -18,6 +18,7 @@ En conclusión: me gustan los videojuegos y llevar a cabo este reto profesional 
 ### Herramientas 
 :bug: JIRA 
 
+
 :computer: EXCEL
 
 :gear: IA CHATGPT
