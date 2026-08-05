@@ -1,4 +1,5 @@
 # 🎸 Testing para sitio web del Videojuego "Guitar Flash"
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🎯 Objetivo
 Validar la estabilidad y flujo crítico de Login (Smoke & Exploratory Testing) en entorno productivo.
@@ -12,6 +13,7 @@ Validar la estabilidad y flujo crítico de Login (Smoke & Exploratory Testing) e
 - 3 bugs funcionales documentados en campos E-mail y Contraseña.
 - Cobertura completa del flujo crítico de autenticación.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ### 🛠️ Tech Stack
 
 | Categoría | Herramientas |
@@ -26,6 +28,7 @@ ________________________________________________________________________________
 
 **💡Conclusiones:** Este proyecto en el sector de videojuegos representó un aprendizaje de alto valor al enfrentarme a un SUT dinámico y con múltiples interacciones en tiempo real. A diferencia de un portal web estático, aquí el enfoque fue crítico. Pude consolidar mi experiencia en dos tipos de prueba clave: el **Smoke Testing** para la validación rápida de la estabilidad del build y que las funciones críticas no estuvieran rotas, y el **Exploratory Testing** para descubrir defectos inesperados de gameplay, UI y lógica que no están en un caso de prueba predefinido.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 **✏️Tester by:** Gerardo Vargas Ventura ● QA Engineer
 
 **🖥️Linkedln:** www.linkedin.com/in/gerardo-vargas-ventura1999
